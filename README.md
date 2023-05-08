@@ -17,6 +17,6 @@ Swagger пропонує два основних підходи до генер�
 
 Приклад:
 
-## [№1 Request "GET"](https://github.com/RomanPravdiuk/swaggerhub/blob/main/GET-Request.png)
-## [№2 Response "GET"](https://github.com/RomanPravdiuk/swaggerhub/blob/main/GET-Response.png)
+![№1 Request "GET"](https://github.com/RomanPravdiuk/swaggerhub/blob/main/GET-Request.png)
+![№2 Response "GET"](https://github.com/RomanPravdiuk/swaggerhub/blob/main/GET-Response.png)
 
